@@ -1,8 +1,6 @@
 <h1 align='center'> Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Melih Varılcı</h1>
 
-<p align='center'>
-  I am studying Computer Engineering at <b>Düzce University</b>. 
-</p>
+<h3 align="center">A Passionate Future Software Engineer from Turkey</h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/melilvarilci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
