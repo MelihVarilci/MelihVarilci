@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Melih Varılcı</h1>
+<h1 align='center'> Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Melih Varılcı</h1>
 
 <p align='center'>
   I am studying Computer Engineering at <b>Düzce University</b>. 
