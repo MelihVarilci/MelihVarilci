@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/ahmet-cetinkaya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:ahmet4cetinkaya@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 </p>
-<h1 align='center'>
-  <a href="https://ahmetcetinkaya.info/" target="_blank">ahmetcetinkaya.info</a>
-</h1>
 
 <a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmet-cetinkaya&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
 <a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-cetinkaya&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
