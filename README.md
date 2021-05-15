@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Melih Varılcı</h1>
+<img src="https://media.giphy.com/media/ss8U06hpYQ3osT1rZi/giphy.gif" width=100%></img>
 
 <h3 align="center">A Passionate Future Software Engineer from Turkey</h3>
 
