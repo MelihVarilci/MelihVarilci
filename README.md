@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ss8U06hpYQ3osT1rZi/giphy.gif" width=100%></img>
+<img src="./Melih.gif" width=100%></img>
 
 <h3 align="center">A Passionate Future Software Engineer from Turkey</h3>
 
