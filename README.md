@@ -1,4 +1,4 @@
-<img src="./MelihVarilci.gif" width=100%></img> <!-- https://engfto.com/ -->
+<img src="./MelihVarilci.gif" width=100%></img> <!-- https://engfto.com/ & https://engfto.com/index/make_animated_gradient_text/0-25 -->
 
 <h3 align="center">A Passionate Future Software Engineer from Turkey</h3>
 
