@@ -17,3 +17,8 @@
 <a href="https://github.com/MelihVarilci"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihVarilci&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
 ![Snake animation](https://github.com/MelihVarilci/MelihVarilci/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=MelihVarilci&color=blueviolet) 
+</div>
